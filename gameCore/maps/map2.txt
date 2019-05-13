@@ -1,0 +1,35 @@
+128 21 32 32
+// The first line should contain the width and height of the
+// map and the width and height of each tile. A list of character to
+// tile mappings is then provided where each character is preceded by a
+// # character. The dot character always defaults to a blank space 
+// Note that the referenced files should be in the same directory as the
+// tile map.
+#p=pipe.png
+#t=pipetop.png
+#b=pipebot.png
+#z=platform.png
+#g=platform.png
+// The actual tile map is preceded by the #map line
+#mapA
+gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+g......................gg......................................................................................................g
+g......................gg......................................................................................................g
+g......................bb.................bbbbbbb..............................................................................g
+g.......bbb............bb............................bbbbbbbbbbbbbb.....................b......................................g
+gggggggggggggggggggggggggggggg.....gggggggggggggggggggggggggg............................b.....................................g
+g......................................................................bbbbbbbbbbbbbbbbbbb...........................bbbbbbbb..g
+g......bbb........b......................................................................b.........................ggggggggggggg
+g.....ggggg.......b..........ggggg......................................................b......................................g
+g.................b.....................bbbbbbbbbbbb..........gggggggggggggggggggggggggggggggggggggggggggggggggg...............g
+g..............ggg.......................................gg....................................................................g
+g................ggg..................gggggggggggggggg....................................bb...bb..............................g
+g.........................bbbbb................................................................................................g
+g...........................................bbbb.........................................b.......b.............................g
+ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg........................bbbbbbbbb.............................g
+g..............................................................gggg......g.............ggggggggggggggg.........................g
+g..............................................................ggggggggggg.....................................................g
+g..............................................................gggggggg........................................................g
+g..............................................................gggggggggggggggggggggggggggggggggggggggggggg....................g
+g....................................................................................................ggggggg...................g
+g....................................................................................................ggggggggggggggggggggggggggg
